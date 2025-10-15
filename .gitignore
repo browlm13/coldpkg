@@ -3,3 +3,9 @@ coldpkg-*.tar.gz
 libs/
 __pycache__/
 *.pyc
+.DS_Store
+venv/
+__pycache__/
+*.pyc
+libs/
+coldpkg-*.tar.gz
